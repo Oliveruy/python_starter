@@ -27,9 +27,3 @@ How many people to split the bill? 7
 ```
 Each person should pay: $19.93
 ```
-
-
-
-# Solution
-
-[https://replit.com/@appbrewery/tip-calculator-end](https://replit.com/@appbrewery/tip-calculator-end)
